@@ -17,6 +17,7 @@ References to program Arduino in C/C++
 [Modern C++ for C programmers: part 2](https://ds9a.nl/articles/posts/cpp-2/)  
 [Using Modern C Techniques with Arduino](https://hackaday.com/2017/05/05/using-modern-c-techniques-with-arduino/)  
 [Code Craft – Embedding C++: Templates](https://hackaday.com/2015/12/18/code-craft-embedding-c-templates/)  
+[Arduino in C](https://balau82.wordpress.com/arduino-in-c)
 
 ### Textbooks
 
